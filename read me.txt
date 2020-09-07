@@ -1,0 +1,8 @@
+1. First extract the .rar folder
+2. save it in
+          C:/xampp/htdocs/projectfolder
+3. Now run xampp server
+4. open google chrome and type localhost
+5. in the address bar, type
+   localhost/project_foldername/
+6.Finally it will move to home page.

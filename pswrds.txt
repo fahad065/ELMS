@@ -1,0 +1,9 @@
+USER / EMPLOYEE
+Email id : mohammedfahad065@gmail.com
+Passowrd : 123456
+Empid : EMP10806121 (in case of password recovery)
+
+ADMIN
+For admin login click on the admin login then provide username and password
+Email id : admin
+Passowrd : 123456
